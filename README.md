@@ -1,5 +1,4 @@
-# ML Ops AWS Native
-AWS MLOps using Native AWS Services
+# AWS MLOps using Native AWS Services
 
 Please kindly refer to the original guide here:
 1. [SageMaker Pipelines](https://aws.amazon.com/getting-started/hands-on/machine-learning-tutorial-mlops-automate-ml-workflows/)

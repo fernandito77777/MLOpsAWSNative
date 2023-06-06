@@ -156,6 +156,7 @@ Resources:
         - 'arn:aws:iam::aws:policy/AmazonS3FullAccess'
         - 'arn:aws:iam::aws:policy/AWSCloudFormationFullAccess'
         - 'arn:aws:iam::aws:policy/AWSCodePipeline_FullAccess'
+        - 'arn:aws:iam::aws:policy/AWSStepFunctionsFullAccess'
         - !Sub "arn:${AWS::Partition}:iam::aws:policy/AmazonSageMakerPipelinesIntegrations"
   
   LambdaExecutionPolicy:
